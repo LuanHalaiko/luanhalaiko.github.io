@@ -23,10 +23,10 @@ particlesJS('particles-js',
         }
       },
       "color": {
-        "value": "#0000c2"
+        "value": "#FFFFFF"
       },
       "shape": {
-        "type": circle,
+        "type": "circle",
         "stroke": {
           "width": 0,
           "color": "#919191"
@@ -63,7 +63,7 @@ particlesJS('particles-js',
       "line_linked": {
         "enable": true,
         "distance": 120,
-        "color": "#001F49",
+        "color": "#6B6B6B",
         "opacity": 0.8,
         "width": 2
       },
