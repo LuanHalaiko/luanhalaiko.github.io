@@ -46,9 +46,9 @@ var pJS = function(tag_id, params){
       },
       opacity: {
         value: 1,
-        random: false,
+        random: true,
         anim: {
-          enable: false,
+          enable: true,
           speed: 2,
           opacity_min: 0,
           sync: false
@@ -95,7 +95,7 @@ var pJS = function(tag_id, params){
           mode: 'grab'
         },
         onclick: {
-          enable: true,
+          enable: false,
           mode: 'push'
         },
         resize: true
